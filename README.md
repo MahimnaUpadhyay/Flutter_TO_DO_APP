@@ -1,16 +1,14 @@
-# flutter_application_3
+# flutter_TODO_App
+My First Flutter app, I hope you all like it. I have made a simple TODO list app where users can
+- Create Task
+- Mark Down Task
+- Delete Task
 
-A new Flutter project.
+I have used 2 extra packages to develop this app and those are:- 
+- Flutter_Sliadable
+- Hive_Flutter
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
